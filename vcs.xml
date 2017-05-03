@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Icaro90/MotoHelp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Icaro90/NewMotoHelp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repositorio" />
